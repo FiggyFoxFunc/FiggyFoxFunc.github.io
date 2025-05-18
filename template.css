@@ -4,6 +4,34 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.githublink > a {
+    text-decoration: none; 
+}
+
+.title {
+    text-align: center;
+}
+
+nav {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+nav > a {
+    color: azure;
+    border-color: blueviolet;
+    background-color: blueviolet;
+    padding-left: 1%;
+    padding-right: 1%;
+    text-decoration: none;
+}
+
+footer {
+    border-color: blueviolet;
+    border-style: groove;
+    text-align: center;
+}
+
 a {
     color: blueviolet;
 }

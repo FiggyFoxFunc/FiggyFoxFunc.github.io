@@ -3,3 +3,11 @@ body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
 }
+
+a {
+    color: blueviolet;
+}
+
+a:visited {
+    color: blueviolet;
+}

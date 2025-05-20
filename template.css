@@ -26,6 +26,20 @@ nav > a {
     text-decoration: none;
 }
 
+.construction {
+    text-align: center;
+}
+
+article {
+    float: left;
+    width: 100%;
+}
+
+aside {
+    float:right;
+    width: 50%;
+}
+
 footer {
     position: fixed;
     left: 0;

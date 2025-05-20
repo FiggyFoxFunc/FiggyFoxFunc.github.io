@@ -40,6 +40,12 @@ aside {
     width: 50%;
 }
 
+
+footer > a {
+    float: left;
+    padding-left: 1%;
+}
+
 footer {
     position: fixed;
     left: 0;

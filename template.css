@@ -40,6 +40,12 @@ aside {
     width: 50%;
 }
 
+#DemoCanvas {
+    position: sticky;
+    border-color: blueviolet;
+    border-style: groove;
+}
+
 
 footer > a {
     float: left;

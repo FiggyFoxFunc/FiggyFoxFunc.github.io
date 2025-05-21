@@ -8,6 +8,17 @@ body{
     text-decoration: none; 
 }
 
+.logo {
+    text-align: center;
+}
+.logo > img {
+    background-color: blueviolet;
+    border-style: groove;
+    border-color: blueviolet;
+    width: 200px;
+    height: 100px;
+}
+
 .title {
     text-align: center;
 }

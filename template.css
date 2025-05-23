@@ -42,8 +42,10 @@ nav > a {
 }
 
 article {
+    position: static;
     float: left;
     width: 100%;
+    height: 80%;
 }
 
 aside {
@@ -52,7 +54,7 @@ aside {
 }
 
 #DemoCanvas {
-    position: sticky;
+    position: static;
     border-color: blueviolet;
     border-style: groove;
 }
